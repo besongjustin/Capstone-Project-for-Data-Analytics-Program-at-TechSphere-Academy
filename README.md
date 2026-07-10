@@ -108,4 +108,4 @@ Driver performance and safety incident analysis.
 ## Author
 **Justin Besong (Jay)**
 - LinkedIn: [linkedin.com/in/besong-justin](https://www.linkedin.com/in/justinbesong/)
-- X: [@Justin_analyst]((https://x.com/Justin_analyst))
+- X: [(https://x.com/Justin_analyst)]((https://x.com/Justin_analyst))
